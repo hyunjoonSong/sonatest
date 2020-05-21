@@ -11,7 +11,7 @@ public class test {
       testInt = 10;
     }
     
-    if (testboolean) {
+    if (testboolean && testboolean) {
       log.debug("true");
     }
     
